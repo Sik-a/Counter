@@ -34,6 +34,6 @@ input[type="button"] {
 #counter{
   font-size: 40px;
   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-  padding-bottom: 0;
-  margin-bottom: 0;
+  padding: 0;
+  margin: 0;
 }
